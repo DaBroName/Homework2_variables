@@ -4,7 +4,7 @@ public class Main {
         byte a1 = 127;
         short a2 = 32767;
         int a3 = 2147483647;
-        long a4 = 922337203;
+        long a4 = 922337203L;
         float b1 = 345.67f;
         double b2 = 2345.6789;
         System.out.println("Значение переменной a1 с типом byte " + "равно " + a1);
@@ -17,9 +17,9 @@ public class Main {
         System.out.println("Задача 2:");
         float q1 = 27.12f;
         long q2 = 987678965549L;
-        float q3 = 2.786F;
+        double q3 = 2.786;
         int q4 = 569;
-        int q5 = -159;
+        short q5 = -159;
         int q6 = 27897;
         byte q7 = 67;
         System.out.println("По условию задачи ничего выводить не надо");
