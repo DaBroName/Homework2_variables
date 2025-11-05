@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Задача 1:");
+        System.out.println("Задача 1: ");
         byte a1 = 127;
         short a2 = 32767;
         int a3 = 2147483647;
